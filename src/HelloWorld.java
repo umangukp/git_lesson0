@@ -5,5 +5,6 @@ import java.io.*;
 	//added new comment
 	 public static void main(String[] args) {
 		System.out.println("HelloWorld");
+		 System.out.println("HelloWorld");
 	}
 }
