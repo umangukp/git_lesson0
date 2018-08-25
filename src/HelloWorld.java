@@ -7,5 +7,6 @@ import java.io.*;
 	 public static void main(String[] args) {
 		System.out.println("HelloWorld");
 		 System.out.println("HelloWorld");
+		 System.out.println(3+10);
 	}
 }
